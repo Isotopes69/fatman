@@ -24,14 +24,12 @@ apt install git -y
 pip install requests
 
 git clone https://github.com/Isotopes69/fatman
-
 ```
 
 ### One Click Installation :
 
 ```
 apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/Isotopes69/fatman
-
 ```
 
 ### FOR RUN :
